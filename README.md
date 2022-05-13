@@ -16,6 +16,6 @@ This app uses:
 ![Screenshot 2022-05-04 205301](https://user-images.githubusercontent.com/33591032/168334306-311d64fd-d1eb-4c87-a04a-8aa60bb7e992.png)
 ![Screenshot 2022-05-04 205338](https://user-images.githubusercontent.com/33591032/168334307-66c8c208-c716-44f3-97a2-71442b70ef0a.png)
 ### Mobile:
-|<img src="https://user-images.githubusercontent.com/33591032/168334309-7a9e5d9e-f265-460f-8e3f-bd723aa4687f.png" width="250"> 
+‎<img src="https://user-images.githubusercontent.com/33591032/168334309-7a9e5d9e-f265-460f-8e3f-bd723aa4687f.png" width="250"> 
 <img src="https://user-images.githubusercontent.com/33591032/168334308-7dc6f8c6-90e9-4328-9462-56a05ade7427.png" width="250"> 
 <img src="https://user-images.githubusercontent.com/33591032/168334310-b7badaae-f0c9-40c9-b65d-f448def0ab1d.png" width="250"> 
